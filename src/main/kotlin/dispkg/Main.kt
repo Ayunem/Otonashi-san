@@ -52,7 +52,7 @@ class Main {
                 embed {
                     author(name = "$idol_name (${chr.name_ruby})")
                     field("Birthday", "${chr.birth_month}月${chr.birth_day}日", true)
-                    field("Arrivaldate", chr.arrival_date, true)
+                    field("Arrivalday", chr.arrival_date, true)
                     field("CV", chr.cv, true)
 
                     for (pro in chr.profile_list) {
