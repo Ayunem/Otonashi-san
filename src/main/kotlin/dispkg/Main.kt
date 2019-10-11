@@ -84,11 +84,11 @@ class Main {
                         field("Profile", "${pro.age}歳 $hand (${pro.blood_type}型)", true)
                         field("Height&Weight", "${pro.height}cm / ${pro.weight}kg", true)
                         field("3size", "B${pro.bust}/W${pro.waist}/H${pro.hip}", true)
-                        field("Hobby", "$pro.hobby", true)
-                        field("Favorite", favorite, true)
-                        field("Specialty", specialty, true)
+                        field("Hobby", "${pro.hobby}", true)
+                        field("Favorite", "${favorite}", true)
+                        field("Specialty", "${specialty}", true)
                         //346アイドルは出身地がアイマスDBに設定されているため表示する
-                        if (chr.origin_media.contains("シンデレラガールズ")) field("Hometown", hometown)
+                        if (chr.origin_media.contains("シンデレラガールズ")) field("Hometown", "${hometown}")
                     }
                 }
             }
