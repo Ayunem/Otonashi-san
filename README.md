@@ -5,7 +5,6 @@ Discord bot that tells the details data of the im@s character😆
 user >> `我那覇響`
 <br>
 <br>
-Otonashi-san >>
 <br>
 ![image](https://github.com/Ayunem/Otonashi-san/blob/master/disco.PNG)
 
