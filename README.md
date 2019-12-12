@@ -10,7 +10,7 @@ user >> `我那覇響`
 
 # Impression
 * Kotlinを用いたJSONパースは面倒（データクラスの用意）
-    * AndroidはRuby等と同じ操作性で扱えるので楽
+    * AndroidはRuby等に似たような操作性であるので楽
 * でもKotlinはKawaii
 
 # Dependencies
