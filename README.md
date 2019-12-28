@@ -9,9 +9,9 @@ user >> `我那覇響`
 ![image](https://github.com/Ayunem/Otonashi-san/blob/master/disco.PNG)
 
 # Impression
-* Kotlinを用いたJSONパースは面倒（データクラスの用意）
-    * AndroidはRuby等に似たような操作性であるので楽
-* でもKotlinはKawaii
+* Kotlinを用いたJSONパースは面倒（データクラスの用意・パラメーターが大きいとエラー吐くみたい）
+    * ただAndroidはスクリプト言語並にちょちょいとできる
+* でもKotlinはかわいい
 
 # Dependencies
 * Kotlin(OpenJDK12)
