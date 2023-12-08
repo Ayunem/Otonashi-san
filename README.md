@@ -11,7 +11,6 @@ user >> `我那覇響`
 # Impression
 * Kotlinを用いたJSONパースは面倒（データクラスの用意・パラメーターが大きいとエラー吐くみたい）
     * ただAndroidはスクリプト言語並にちょちょいとできる
-* でもKotlinはかわいい
 
 # Dependencies
 * Kotlin(OpenJDK12)
